@@ -1,0 +1,25 @@
+{
+  "name": "todo-manager",
+  "version": "1.0.0",
+  "description": "Todo manager app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "todo",
+    "client",
+    "server",
+    "event",
+    "event emitter"
+  ],
+  "author": "Karthikeyan R",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.8.0",
+    "nodemon": "^2.0.15"
+  },
+  "engines": {
+    "node": "~14.7.x"
+  }
+}
