@@ -1,1 +1,3 @@
-"$ todo manager" 
+# todo-manager
+
+Personal task manager app
