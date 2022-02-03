@@ -30,3 +30,5 @@ The following commands are supported
 - shutdown
   - shutdown
     Saves the application state, task data to filesystem and exits.
+
+  Thank you
